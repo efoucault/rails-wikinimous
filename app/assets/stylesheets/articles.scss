@@ -32,11 +32,15 @@ p {
 .navbar h1 {
   color: rgb(120, 120, 120);
   padding: 0px;
-  margin: 0px;
+  margin: auto;
   font-size: 20px;
   align-items: center;
   text-align: center;
   text-decoration: none;
+}
+
+.btn-nvbar {
+  margin: auto;
 }
 
 .fa .fa-pencil {
@@ -70,5 +74,5 @@ p {
 }
 
 .content {
-  height: 200px;
+  height: 400px;
 }
